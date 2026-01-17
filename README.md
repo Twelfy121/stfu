@@ -15,3 +15,5 @@ something something auditory feedback loop something something cognitive dissona
 ---
 
 made with spite and web audio api. do whatever you want with it.
+
+yo, meanwhile if you are new here, you might find [my](https://twitter.com/the2ndfloorguy), [other side projects](https://pankajtanwar.in/side-hustles) kinda funny.
